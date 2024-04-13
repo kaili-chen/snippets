@@ -1,4 +1,4 @@
-# Hackerrank Regex Practice in Python 3
+# Hackerrank Regex Solutions in Python 3
 
 | Problem | Solution File |
 | ----------- | ----------- |
@@ -7,3 +7,4 @@
 | [Valid PAN Format](https://www.hackerrank.com/challenges/valid-pan-format/problem) | [📄 Valid PAN Format.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Valid%20PAN%20Format.py) |
 | [Find Hackerrank](https://www.hackerrank.com/challenges/find-hackerrank/problem) | [📄 Find Hackerrank.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Find%20Hackerrank.py) |
 | [Saying Hi](https://www.hackerrank.com/challenges/saying-hi/problem) | [📄 Saying Hi.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Saying%20Hi.py) |
+| [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language/problem) | [📄 HackerRank Language.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/HackerRank%20Language.py) |
