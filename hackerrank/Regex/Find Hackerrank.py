@@ -17,7 +17,9 @@ def find_hackerrank(line):
     if line.startswith('hackerrank'):
         return 0 if line.endswith('hackerrank') else 1
     return 2 if line.endswith('hackerrank') else -1    
+    
 ### MAIN
+# read STDIN
 n = int(input())
 for i in range(0,n):
     line = input()  # all input are in lowercase
