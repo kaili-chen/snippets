@@ -11,8 +11,6 @@
 ###
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
-import re
-
 def find_hackerrank(line):
     if line.startswith('hackerrank'):
         return 0 if line.endswith('hackerrank') else 1
