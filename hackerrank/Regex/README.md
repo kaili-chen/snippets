@@ -23,6 +23,8 @@
 | [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem) | [📄 Matching {x} Repetitions.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20%7Bx%7D%20Repetitions.py) |
 | [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem) | [📄 Matching {x, y} Repetitions.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20%7Bx%2C%20y%7D%20Repetitions.py) |
 | [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem) | [📄 Matching Zero Or More Repetitions.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Zero%20Or%20More%20Repetitions.py) |
+| [Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem) | [📄 Matching One Or More Repetitions.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20One%20Or%20More%20Repetitions.py) |
+| [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem) | [📄 Matching Ending Items.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Ending%20Items.py) |
 
 
 **Applications**
