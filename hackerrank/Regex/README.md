@@ -1,5 +1,6 @@
 # Hackerrank Regex Solutions in Python 3
 
+**Introduction**
 | Problem | Solution File |
 | ----------- | ----------- |
 | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem) | [📄 Matching Specific String.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Specific%20String.py) |
@@ -8,6 +9,17 @@
 | [Matching White Space & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem) | [📄 Matching White Space & Non-Whitespace Character.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20White%20Space%20%26%20Non-Whitespace%20Character.py) |
 | [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem) | [📄 Matching Word & Non-Word Character.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Word%20%26%20Non-Word%20Character.py) |
 | [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem) | [📄 Matching Start & End.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Start%20%26%20End.py) |
+
+**Character Class**
+| Problem | Solution File |
+| ----------- | ----------- |
+| [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters) | [📄 Matching Specific Characters.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Specific%20Characters.py) |
+| [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem) | [📄 Excluding Specific Characters.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Excluding%20Specific%20Characters.py) |
+| [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem) | [📄 Matching Character Ranges.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Character%20Ranges.py) |
+
+**Applications**
+| Problem | Solution File |
+| ----------- | ----------- |
 | [Valid PAN Format](https://www.hackerrank.com/challenges/valid-pan-format/problem) | [📄 Valid PAN Format.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Valid%20PAN%20Format.py) |
 | [Find Hackerrank](https://www.hackerrank.com/challenges/find-hackerrank/problem) | [📄 Find Hackerrank.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Find%20Hackerrank.py) |
 | [Saying Hi](https://www.hackerrank.com/challenges/saying-hi/problem) | [📄 Saying Hi.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Saying%20Hi.py) |
