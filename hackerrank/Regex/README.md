@@ -13,9 +13,17 @@
 **Character Class**
 | Problem | Solution File |
 | ----------- | ----------- |
-| [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters) | [📄 Matching Specific Characters.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Specific%20Characters.py) |
+| [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem) | [📄 Matching Specific Characters.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Specific%20Characters.py) |
 | [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem) | [📄 Excluding Specific Characters.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Excluding%20Specific%20Characters.py) |
 | [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem) | [📄 Matching Character Ranges.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Character%20Ranges.py) |
+
+**Reptitions**
+| Problem | Solution File |
+| ----------- | ----------- |
+| [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem) | [📄 Matching {x} Repetitions.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20%7Bx%7D%20Repetitions.py) |
+| [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem) | [📄 Matching {x, y} Repetitions.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20%7Bx%2C%20y%7D%20Repetitions.py) |
+| [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem) | [📄 Matching Zero Or More Repetitions.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Zero%20Or%20More%20Repetitions.py) |
+
 
 **Applications**
 | Problem | Solution File |
