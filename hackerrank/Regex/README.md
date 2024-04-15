@@ -26,6 +26,12 @@
 | [Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem) | [📄 Matching One Or More Repetitions.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20One%20Or%20More%20Repetitions.py) |
 | [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem) | [📄 Matching Ending Items.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Ending%20Items.py) |
 
+**Grouping and Capturing**
+| Problem | Solution File |
+| ----------- | ----------- |
+| [Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem) | [📄 Matching Word Boundaries.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Word%20Boundaries.py) |
+| [Capturing & Non-Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem) | [📄 Capturing & Non-Capturing Groups.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Capturing%20%26%20Non-Capturing%20Groups.py) |
+| [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem) | [📄 Alternative Matching.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Alternative%20Matching.py) |
 
 **Applications**
 | Problem | Solution File |
