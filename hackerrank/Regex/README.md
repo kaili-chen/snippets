@@ -38,6 +38,8 @@
 | ----------- | ----------- |
 | [Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem) | [📄 Matching Same Text Again & Again.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Same%20Text%20Again%20%26%20Again.py) |
 | [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem) | [📄 Backreferences To Failed Groups.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Backreferences%20To%20Failed%20Groups.py) |
+| [Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem) | [📄 Branch Reset Groups.php](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Branch%20Reset%20Groups.php) |
+| [Forward References](https://www.hackerrank.com/challenges/forward-references/problem) | [📄 ](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Forward%20References.rb) | 
 
 **Applications**
 | Problem | Solution File |
