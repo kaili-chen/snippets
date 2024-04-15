@@ -33,6 +33,12 @@
 | [Capturing & Non-Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem) | [📄 Capturing & Non-Capturing Groups.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Capturing%20%26%20Non-Capturing%20Groups.py) |
 | [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem) | [📄 Alternative Matching.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Alternative%20Matching.py) |
 
+**Backreferences**
+| Problem | Solution File |
+| ----------- | ----------- |
+| [Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem) | [📄 Matching Same Text Again & Again.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Matching%20Same%20Text%20Again%20%26%20Again.py) |
+| [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem) | [📄 Backreferences To Failed Groups.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Backreferences%20To%20Failed%20Groups.py) |
+
 **Applications**
 | Problem | Solution File |
 | ----------- | ----------- |
