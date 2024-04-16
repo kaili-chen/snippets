@@ -41,6 +41,11 @@
 | [Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem) | [📄 Branch Reset Groups.php](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Branch%20Reset%20Groups.php) |
 | [Forward References](https://www.hackerrank.com/challenges/forward-references/problem) | [📄 Forward References.rb](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Forward%20References.rb) | 
 
+**Assertions**
+| Problem | Solution File |
+| ----------- | ----------- |
+| [Positive Lookahead](https://www.hackerrank.com/challenges/positive-lookahead/problem) | [📄 Positive Lookahead.py](https://github.com/kaili-chen/snippets/blob/main/hackerrank/Regex/Positive%20Lookahead.py) |
+
 **Applications**
 | Problem | Solution File |
 | ----------- | ----------- |
